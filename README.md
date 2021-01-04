@@ -10,4 +10,4 @@ go get -u github.com/go-utils/plural
 Check [Go Playground](https://play.golang.org/p/mKWa5F3l29b)
 
 # License
-MIT
+[MIT](./LICENSE)
